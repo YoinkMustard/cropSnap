@@ -57,7 +57,7 @@ Make sure you have the following installed:
 These are also listed in the `requirements.txt` file.
 
 ## Usage
-- Visit the deployed version of the app [here]([https://share.streamlit.io/YoinkMustard/CropSnap/app.py](https://cropsnap.streamlit.app/)).
+- Visit the deployed version of the app [here](https://cropsnap.streamlit.app/).
 - Upload an image of a fruit or vegetable to get a prediction.
 - Explore more about the identified item by clicking the provided link.
 
