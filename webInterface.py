@@ -115,6 +115,7 @@ h3 {
 st.markdown(app_css, unsafe_allow_html=True)
 
 # Streamlit app
+st.logo("icon.png")
 st.image("banner.jpg", use_column_width=True)
 st.image("logoBody.jpeg", width=300)
 
